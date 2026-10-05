@@ -34,3 +34,21 @@ Hangul học trong 3 ngày là đọc được. Dùng Hangul + romanization tạ
 1. 3 bậc: 달/딸/탈, 불/뿔/풀, 자/짜/차 — nghe đoán đúng ≥90%.
 2. Đọc 20 từ có nối âm/mũi hóa.
 3. Cùng câu 2 ngữ điệu: 밥 먹었어요↘ / 밥 먹었어요↗
+
+## Ưu tiên
+| Mục | Ưu tiên |
+|---|---|
+| Đọc Hangul (để đọc phiên âm chính xác) | P0 |
+| 3 bậc phụ âm thường / căng / bật hơi | P0 nghe ra · P1 nói |
+| Batchim 7 âm | P0 |
+| Nối âm | P0 nghe ra + nói |
+| Mũi hóa | P0 nghe ra · P1 nói |
+| Căng hóa, ㅎ yếu, ㄹ+ㄴ | P1 nghe ra |
+| Ngữ điệu -요 (khẳng định ↘ / hỏi ↗) | P0 |
+| ㅓ vs ㅗ, ㅡ vs ㅜ | P0 nghe ra |
+
+## Gate L0 KO (Chủ nhật W2, agent sinh đề mới mỗi lần)
+1. Nghe 20 âm tiết 3 bậc (달/딸/탈…) → chọn đúng → ≥85%
+2. Đọc Hangul 20 từ không có romanization → ≥90%
+3. Nghe 10 câu → nhận ra câu khẳng định hay câu hỏi → ≥90%
+4. Đọc to 10 chunk có nối âm/mũi hóa → ≥80%

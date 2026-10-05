@@ -1,6 +1,16 @@
 # EN — Bài từng ngày (`EN W#D#`)
 
-Mỗi buổi 20': 8' `NGHE` (connected speech) + 12' `RP`. Chủ nhật = `TEST EN W#`.
+Mỗi buổi 20': 8' `NGHE` (connected speech) + 12' `RP`, kết thúc bằng mini-test 5 câu → retest.
+Chủ nhật = `ÔN HẠN` + gate bên dưới + `DASH`.
+
+**W1D1 = `DIAG EN`** (15'): đo L0 (sound map), L1–L3 (từ lõi, khung câu, phản xạ), L5 (nghe tốc độ thật), L7 (hội thoại 5'). Gate nào PASS ngay thì đánh dấu PASS. Gate nào FAIL thì đưa vào lịch luyện.
+
+| Tuần | Bậc đang luyện | Gate Chủ nhật |
+|---|---|---|
+| W1–W3 | L0 (sound map P0) + L5 | W2: `GATE EN L0` thử · W3: `GATE EN L0` |
+| W4–W6 | L4 + L5 | W4: `REAL EN` · W6: `GATE EN L4` + `REAL EN` |
+| W7–W9 | L6 + L5 | W8: `REAL EN` · W9: `GATE EN L6` |
+| W10–W12 | L5 + L7 | W10: `REAL EN` · W11: `GATE EN L5` · W12: `REAL EN` cuối (10') |
 
 ## W1–W3 — Connected speech
 | | D1 | D2 | D3 | D4 | D5 | D6 |
@@ -24,6 +34,6 @@ Mỗi buổi 20': 8' `NGHE` (connected speech) + 12' `RP`. Chủ nhật = `TEST 
 | W9 | used to / should've | Giả định: if I were… | Kể kinh nghiệm: have you ever | So sánh VN vs nước khác | Tranh luận nhẹ | Thảo luận 7' |
 
 ## W10–W12 — Nghe tốc độ thật
-- W10: Mỗi ngày 1 đoạn podcast 3–5' (All Ears English / podcast bạn thích): nghe 3 lần + shadow + thảo luận nội dung với agent.
+- W10: Mỗi ngày 1 đoạn podcast 3–5' (All Ears English / podcast bạn thích), chủ đề lần lượt: ăn uống, mua sắm, du lịch, đường đi, sức khỏe (TOPICS #6–9, #11): nghe 3 lần + shadow + thảo luận nội dung với agent.
 - W11: Cảnh phim/series 2–3' (không phụ đề → phụ đề EN → không phụ đề) + RP lại cảnh.
 - W12: D1 test nghe · D2 thảo luận 10' · D3–D6 sửa 5 lỗi lớn · 30/12 hội thoại tự do 10' + báo cáo.

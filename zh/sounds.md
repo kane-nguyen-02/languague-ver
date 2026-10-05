@@ -38,3 +38,20 @@ Không học chữ Hán viết tay. Đọc pinyin + nhận mặt chữ dần qua
 1. Minimal pairs thanh: mā/má/mǎ/mà, shì/shí, mǎi(mua)/mài(bán), wèn(hỏi)/wěn(hôn).
 2. Phụ âm: zhī/zī, chī/cī, shī/sī, jī/qī/xī, bā/pā.
 3. Nghe 10 từ → tôi ghi thanh số (1–4). Mục tiêu ≥90%.
+
+## Ưu tiên
+| Mục | Ưu tiên |
+|---|---|
+| 4 thanh + thanh nhẹ | P0 nghe ra + nói |
+| Biến điệu 3+3, 不, 一 | P0 nghe ra · P1 nói |
+| Bật hơi b/p, d/t, g/k | P0 |
+| zh/z, ch/c, sh/s | P1 nghe ra (người TQ miền Nam cũng hay lẫn) · P1 nói |
+| j/q/x + ü | P0 |
+| -n / -ng | P1 |
+| 儿化, rút gọn khẩu ngữ (这个 zhèige…) | P1 nghe ra |
+
+## Gate L0 ZH (Chủ nhật W2, agent sinh đề mới mỗi lần)
+1. Nghe 20 âm tiết → ghi số thanh (1–4/0) → ≥85%
+2. Phân biệt 20 cặp phụ âm/vần → ≥85%
+3. Nghe 10 từ 2 âm tiết → ghi pinyin + thanh → ≥80%
+4. Đọc to 10 chunk W1–2 → chấm thanh + phụ âm → ≥80%

@@ -1,8 +1,10 @@
 # KO — Bài từng ngày (`KO W#D#`)
 
-Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
+Mỗi buổi 20'. Chủ nhật = `ÔN HẠN` + gate ghi dưới mỗi tuần + `DASH` (xem `ROADMAP.md`, `GATES.md`).
+Mỗi buổi kết thúc bằng mini-test 5 câu → retest (xem `AGENT_PROMPT.md`).
 
 ## W1 — Hangul & âm
+> Bậc L0 · Gate: — (luyện)
 - D1: Nguyên âm cơ bản + ghép âm tiết; 안녕하세요
 - D2: Phụ âm thường + ㅇ ㄹ; 감사합니다 (mũi hóa)
 - D3: Phụ âm căng / bật hơi — 3 bậc; drill nghe
@@ -11,6 +13,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Đọc to 30 từ + nghe 3 bậc ≥90%
 
 ## W2 — Âm trong câu & số
+> Bậc L0 · Gate CN: `GATE KO L0`
 - D1: Số Hán-Hàn 일이삼… (giá, số điện thoại, phút)
 - D2: Số thuần Hàn 하나둘셋… (tuổi, đếm đồ, giờ)
 - D3: Ngữ điệu -요 khẳng định vs hỏi
@@ -19,6 +22,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Drill nghe tổng hợp
 
 ## W3 — Gặp người mới
+> Bậc L1 · Gate: — (luyện)
 - D1: 저는 ___예요, 베트남 사람이에요
 - D2: ___에서 일해요; ___씨는요? / 저도요
 - D3: Repair: 다시 한번…, 천천히…, 무슨 뜻이에요?
@@ -27,6 +31,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Tự giới thiệu 1' + 5 câu hỏi bất ngờ
 
 ## W4 — Tiền & số
+> Bậc L1 · Gate CN: `GATE KO L1` + `REAL KO`
 - D1: 얼마예요? + giá 원 (천, 만)
 - D2: 주세요 / 이거, 그거, 저거
 - D3: 비싸요 / 깎아 주세요 / 카드 돼요?
@@ -35,6 +40,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Role-play cửa hàng + hỏi giờ
 
 ## W5 — Chia đuôi -요 + động từ
+> Bậc L2 · Gate: — (luyện)
 - D1: 가요 / 와요 / 해요 / 먹어요 / 마셔요
 - D2: 안 V / 못 V
 - D3: Câu hỏi: 뭐 / 어디 / 누구 / 언제
@@ -43,6 +49,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Hỏi–đáp 10 câu về ngày của tôi
 
 ## W6 — Mở rộng
+> Bậc L2 · Gate CN: `GATE KO L2` + `REAL KO`
 - D1: -고 싶어요
 - D2: -(으)ㄹ 수 있어요 / 없어요
 - D3: -아/어 주세요 / -아/어도 돼요?
@@ -51,6 +58,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Test hỏi–đáp 10 câu
 
 ## W7 — Ăn uống
+> Bậc L3 · Gate CN: `GATE KO L3`
 - D1: Vào quán: 몇 분이세요? / 저기요!
 - D2: Gọi món, 안 맵게
 - D3: Cà phê: 아이스 아메리카노 하나요, 사이즈
@@ -59,6 +67,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Role-play quán ăn
 
 ## W8 — Mua sắm, đi lại, hẹn
+> Bậc L4 · Gate CN: `REAL KO` (thử)
 - D1: Quần áo: 입어 봐도 돼요? 사이즈
 - D2: Hỏi đường: 어떻게 가요? 쭉, 왼쪽/오른쪽
 - D3: Taxi + tàu điện: 몇 호선?
@@ -67,6 +76,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Role-play 4 tình huống ngẫu nhiên
 
 ## W9 — Công việc & sở thích
+> Bậc L4 · Gate CN: `GATE KO L4`
 - D1: 무슨 일 하세요? 요즘 바빠요?
 - D2: Mô tả công việc bằng từ đơn giản
 - D3: 좋아해요 / 자주 / 가끔
@@ -75,6 +85,7 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Hội thoại 3' về công việc
 
 ## W10 — Kể chuyện
+> Bậc L5 + L6 · Gate CN: `REAL KO`
 - D1: 지난 주말에 + quá khứ
 - D2: 그리고 / 그래서 / 그런데
 - D3: -아/어서 (lý do), -(으)면 (nếu)
@@ -83,10 +94,12 @@ Mỗi buổi 20'. Chủ nhật = `TEST KO W#` + `LỖI`.
 - D6: Kể chuyện 3' không dừng
 
 ## W11 — Recycle + nghe thật
+> Bậc L5 + L6 · Gate CN: `GATE KO L5` + `GATE KO L6`
 - D1–D5: TTMIK Iyagi / vlog 브이로그 — nghe 3 lần + shadow
 - D6: `ÔN KO W1-W10`
 
 ## W12 — Test cuối
+> Bậc L7 · Gate: `REAL KO` cuối (30/12)
 - D1: Test nghe 5 đoạn
 - D2: Role-play ngẫu nhiên 8 chủ đề
 - D3–D6: Sửa 5 lỗi lớn nhất

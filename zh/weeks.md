@@ -1,8 +1,10 @@
 # ZH — Bài từng ngày (agent bám theo khi tôi gõ `ZH W#D#`)
 
-Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
+Mỗi buổi 25'. Chủ nhật = `ÔN HẠN` + gate ghi dưới mỗi tuần + `DASH` (xem `ROADMAP.md`, `GATES.md`).
+Mỗi buổi kết thúc bằng mini-test 5 câu → retest (xem `AGENT_PROMPT.md`).
 
 ## W1 — Âm & thanh
+> Bậc L0 · Gate: — (luyện)
 - D1: 4 thanh + thanh nhẹ; repair: 再说一遍 / 慢一点儿
 - D2: b-p d-t g-k (bật hơi); 你好, 谢谢, 不客气
 - D3: zh-ch-sh-r vs z-c-s; 我是…, 我叫…
@@ -11,6 +13,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Drill nghe thanh 30 từ + đọc to chunks W1
 
 ## W2 — Âm trong câu & số
+> Bậc L0 · Gate CN: `GATE ZH L0`
 - D1: Số 0–10, 100; 几 / 多少
 - D2: Số điện thoại, tuổi: 你多大? 我…岁
 - D3: Âm rút gọn: 这个 zhèige, 什么, 我们; ngữ điệu câu hỏi 吗
@@ -19,6 +22,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Nghe phân biệt cặp âm khó (mục tiêu ≥90%)
 
 ## W3 — Survival 1: Gặp người mới
+> Bậc L1 · Gate: — (luyện)
 - D1: Tự giới thiệu (tên, nước, công việc)
 - D2: 你呢? / 我也是 — hỏi ngược lại để kéo dài
 - D3: Repair: 我听不懂, …是什么意思?, …怎么说?
@@ -27,6 +31,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Tự giới thiệu 1 phút + trả lời 5 câu hỏi bất ngờ
 
 ## W4 — Survival 2: Tiền & số
+> Bậc L1 · Gate CN: `GATE ZH L1` + `REAL ZH`
 - D1: 多少钱? 块/毛; giá lớn 一百, 一千
 - D2: 太贵了 / 便宜一点儿吧 — mặc cả
 - D3: 可以刷卡/微信支付吗?
@@ -35,6 +40,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Role-play chợ + hỏi giờ
 
 ## W5 — Khung câu + động từ
+> Bậc L2 · Gate: — (luyện)
 - D1: 想 / 要 / 会 / 可以
 - D2: 去 / 来 / 在 + chỗ
 - D3: Câu hỏi: 什么 / 哪儿 / 谁 / 什么时候
@@ -43,6 +49,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Hỏi–đáp 10 câu liên tục về ngày của tôi
 
 ## W6 — Mở rộng câu
+> Bậc L2 · Gate CN: `GATE ZH L2` + `REAL ZH`
 - D1: 喜欢 / 觉得
 - D2: …还是…? lựa chọn
 - D3: 太…了 / 有点儿 / 挺…的
@@ -51,6 +58,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Test hỏi–đáp 10 câu
 
 ## W7 — Ăn uống
+> Bậc L3 · Gate CN: `GATE ZH L3`
 - D1: Vào quán: 几位? 有菜单吗?
 - D2: Gọi món: 来一个…, 不要…, 少放辣
 - D3: Đồ uống, trà sữa: 少冰, 半糖
@@ -59,6 +67,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Role-play quán ăn không xem bài
 
 ## W8 — Mua sắm, đi lại, hẹn
+> Bậc L4 · Gate CN: `REAL ZH` (thử)
 - D1: Mua quần áo: 尺码, 颜色, 试试
 - D2: Hỏi đường: 怎么走, 左/右, 一直走
 - D3: Taxi/Didi: 去…, 在这儿停
@@ -67,6 +76,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Role-play 4 tình huống ngẫu nhiên
 
 ## W9 — Công việc & sở thích
+> Bậc L4 · Gate CN: `GATE ZH L4`
 - D1: 你做什么工作? 忙不忙?
 - D2: Mô tả công việc bằng từ đơn giản
 - D3: Sở thích: 喜欢 + V, 常常, 有时候
@@ -75,6 +85,7 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Hội thoại 3' về công việc
 
 ## W10 — Kể chuyện
+> Bậc L5 + L6 · Gate CN: `REAL ZH`
 - D1: Cuối tuần trước: 上个周末, V + 了
 - D2: Thứ tự: 先…然后…最后
 - D3: 过 — trải nghiệm
@@ -83,10 +94,12 @@ Mỗi buổi 25'. Chủ nhật = `TEST ZH W#` + `LỖI`.
 - D6: Kể chuyện 3' không dừng
 
 ## W11 — Recycle + nghe thật
+> Bậc L5 + L6 · Gate CN: `GATE ZH L5` + `GATE ZH L6`
 - D1–D5: Mỗi ngày 1 tập podcast chậm (Slow Chinese / Mandarin Corner) theo quy trình nghe 3 lần + shadow
 - D6: `ÔN ZH W1-W10`
 
 ## W12 — Test cuối (21–30/12)
+> Bậc L7 · Gate: `REAL ZH` cuối (30/12)
 - D1: Test nghe 5 đoạn hội thoại đời thường
 - D2: Role-play ngẫu nhiên 8 chủ đề
 - D3–D6: Sửa 5 lỗi lớn nhất trong tracker

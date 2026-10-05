@@ -43,3 +43,22 @@ Phản hồi (相槌 aizuchi) — nghe liên tục trong hội thoại: はい /
 1. Cặp độ dài: obasan/obaasan, kite/kitte, shujin/shūjin.
 2. Nghe 10 từ → đếm số nhịp.
 3. Shadow câu có です/ます với i/u câm.
+
+## Ưu tiên
+| Mục | Ưu tiên |
+|---|---|
+| Đọc hiragana | P0 · katakana P1 (đọc chậm cũng được) |
+| Trường âm | P0 nghe ra + nói |
+| Âm ngắt っ | P0 nghe ra + nói |
+| ん = 1 nhịp, đếm nhịp | P0 |
+| i/u câm (です/ます/した) | P0 nghe ra · P1 nói |
+| r, ふ, つ | P1 nói |
+| Cao độ (pitch accent) | P2 (shadow là đủ) |
+| Văn nói rút gọn (てる, ちゃう, なきゃ, って) | P1 nghe ra (W2), P0 từ W6 |
+| Aizuchi (うん, へえ, なるほど) | P0 nghe ra + dùng |
+
+## Gate L0 JA (Chủ nhật W2, agent sinh đề mới mỗi lần)
+1. Nghe 20 cặp ngắn/dài/ngắt (kite/kitte, obasan/obaasan) → chọn đúng → ≥85%
+2. Nghe 10 từ → đếm số nhịp → ≥85%
+3. Đọc hiragana 20 từ không có romaji → ≥90%
+4. Đọc to 10 chunk → chấm độ dài + i/u câm → ≥80%
