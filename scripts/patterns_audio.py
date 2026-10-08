@@ -48,7 +48,7 @@ def parse(lang):
         pattern, example = cells[1], cells[2]
         meaning = cells[3] if len(cells) > 3 else None
         if lang == "en":
-            text = example if not example.startswith("—") else pattern
+            text = example
         else:
             text = example
             if lang in ("ja", "zh"):  # drop romaji / pinyin after the native text
