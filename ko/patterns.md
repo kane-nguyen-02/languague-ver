@@ -1,5 +1,7 @@
 # KO — 30 khung câu tần suất cao
 
+🎧 **Audio:** [patterns.mp3](patterns.mp3) — mỗi câu: câu gốc → nghĩa tiếng Việt → câu gốc lần 2 → khoảng lặng để bạn nói theo.
+
 Cấu trúc: **Chủ ngữ + Tân ngữ + Động từ (cuối câu)**. Dùng đuôi lịch sự **-아요/어요/해요** cho hầu hết tình huống. Ngữ điệu lên = câu hỏi.
 
 Chia đuôi -요 nhanh: 가다→가요, 먹다→먹어요, 하다→해요, 보다→봐요, 오다→와요, 마시다→마셔요. Quá khứ: -았/었/했어요.

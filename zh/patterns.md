@@ -1,5 +1,7 @@
 # ZH — 30 khung câu tần suất cao
 
+🎧 **Audio:** [patterns.mp3](patterns.mp3) — mỗi câu: câu gốc → nghĩa tiếng Việt → câu gốc lần 2 → khoảng lặng để bạn nói theo.
+
 Cấu trúc gốc: **Chủ ngữ + (thời gian) + (địa điểm) + Động từ + Tân ngữ**. Không chia động từ. Thì = từ thời gian + 了/过.
 
 | # | Pattern | Ví dụ | Nghĩa |

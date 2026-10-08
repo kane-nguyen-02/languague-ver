@@ -1,5 +1,7 @@
 # EN — 30 khung câu giao tiếp (intermediate → natural)
 
+🎧 **Audio:** [patterns.mp3](patterns.mp3) — mỗi câu đọc 2 lần, sau đó có khoảng lặng để bạn nói theo (shadowing).
+
 Bạn đã biết grammar. Mục tiêu: nói **tự nhiên, nhanh**, không "textbook".
 
 | # | Pattern | Ví dụ tự nhiên |

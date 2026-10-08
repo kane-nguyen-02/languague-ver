@@ -1,5 +1,7 @@
 # JA — 30 khung câu tần suất cao
 
+🎧 **Audio:** [patterns.mp3](patterns.mp3) — mỗi câu: câu gốc → nghĩa tiếng Việt → câu gốc lần 2 → khoảng lặng để bạn nói theo.
+
 Cấu trúc: **(Chủ đề は) + ... + Động từ cuối câu**. Bỏ chủ ngữ khi đã rõ (rất thường). Dùng **thể ます/です** (lịch sự) làm mặc định; học thể ngắn để NGHE.
 
 Trợ từ tối thiểu: は (chủ đề) · が (chủ thể/có) · を (tân ngữ) · に (đến/lúc) · で (ở/bằng) · と (với) · も (cũng) · の (của).
